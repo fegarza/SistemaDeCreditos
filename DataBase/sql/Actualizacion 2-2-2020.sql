@@ -1,0 +1,6 @@
+USE Escolares;
+GO
+ALTER TABLE GRUPOS
+ADD Periodo VARCHAR(4) NULL
+;
+ 

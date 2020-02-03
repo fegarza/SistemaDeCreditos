@@ -1,0 +1,270 @@
+<Project>
+  <Name>Actividades Complementarias</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Registro</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Nucleo</Name>
+        <Access>Public</Access>
+        <Location left="1202" top="61" />
+        <Size width="412" height="502" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string _strServer</Member>
+        <Member type="Field">string _strBD</Member>
+        <Member type="Field">string _strUsuario</Member>
+        <Member type="Field">string _strClave</Member>
+        <Member type="Field">string _srtRutaFx</Member>
+        <Member type="Property">public string Server { get; set; }</Member>
+        <Member type="Property">public string BD { get; set; }</Member>
+        <Member type="Property">public string Usuario { get; set; }</Member>
+        <Member type="Property">public string Clave { get; set; }</Member>
+        <Member type="Property">public SqlConnection conexion { get; set; }</Member>
+        <Member type="Property">public SqlCommand comando { get; set; }</Member>
+        <Member type="Property">public SqlDataReader reader { get; set; }</Member>
+        <Member type="Property">public List&lt;Estudiante&gt; estudiantesResultado { get; set; }</Member>
+        <Member type="Property">public string RutaFx { get; set; }</Member>
+        <Member type="Property">public OleDbConnection fxConexion { get; set; }</Member>
+        <Member type="Property">public OleDbCommand fxComando { get; set; }</Member>
+        <Member type="Property">public OleDbDataReader fxReader { get; set; }</Member>
+        <Member type="Constructor">public Nucleo(string _sv, string _bd, sting _usuario, string _clave)</Member>
+        <Member type="Method">public List&lt;Estudiante&gt; BuscaEstudiante(string _tipo, string _datos)</Member>
+        <Member type="Method">public List&lt;Estudiante&gt; MostarEstudiantesQueRequierenTerminarCreditos()</Member>
+        <Member type="Method">public List&lt;Estudiante&gt; MostraEstudiantesQueUrgeTerminarCreditos()</Member>
+        <Member type="Method">public boolean EliminarActividad(string _actividad)</Member>
+        <Member type="Method">public boolean AgrgarActividad()</Member>
+        <Member type="Method">public boolean EditarActividad()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Actividad</Name>
+        <Access>Public</Access>
+        <Location left="804" top="61" />
+        <Size width="343" height="196" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Field">public int Peso</Member>
+        <Member type="Field">public Seccion SeccionInstancia</Member>
+        <Member type="Constructor">public Actividad(String _nombre, int _id, int _peso, int _seccionID, string _seccionNombre)</Member>
+        <Member type="Destructor">~Actividad()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Grupo</Name>
+        <Access>Public</Access>
+        <Location left="75" top="382" />
+        <Size width="343" height="196" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public string Titulo</Member>
+        <Member type="Field">public int Cupo</Member>
+        <Member type="Field">public int ResponsableID</Member>
+        <Member type="Field">public int ActividadID</Member>
+        <Member type="Field">public int Conteo</Member>
+        <Member type="Constructor">public Grupo(int _id, string _titulo, int _cupo, int _responsableID, int _actividadID, int _conteo)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Usuario</Name>
+        <Access>Public</Access>
+        <Location left="839" top="667" />
+        <Size width="282" height="213" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public string Apellidos</Member>
+        <Member type="Field">public string Clave</Member>
+        <Member type="Field">public string Genero</Member>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Field">public int PersonalClave</Member>
+        <Member type="Field">public string Rol</Member>
+        <Member type="Field">public int ID</Member>
+        <Member type="Constructor">public Usuario(string _nombre, string _clave, int _usuarioID, string _rol, int _personalClave, string _apellido, string _genero, int _departamentoID)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Estudiante</Name>
+        <Access>Public</Access>
+        <Location left="75" top="61" />
+        <Size width="347" height="270" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public List&lt;ActividadComplementaria&gt; ActividadesComplementarias</Member>
+        <Member type="Field">public string ApellidoMaterno</Member>
+        <Member type="Field">public string ApellidoPaterno</Member>
+        <Member type="Field">public string Carrera</Member>
+        <Member type="Field">public int CarreraID</Member>
+        <Member type="Field">public int CreditosPendientes</Member>
+        <Member type="Field">public int CreditosTerminados</Member>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Field">public string NumeroDeControl</Member>
+        <Member type="Constructor">public Estudiante(string _nombre, string _apellidoPaterno, string _apellidoMaterno, string _noControl, int _carreraID, int _creditosT, int _creditosP)</Member>
+        <Member type="Constructor">public Estudiante(string _noControl, int _carreraID, int _creditosT, int _creditosP)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Credito</Name>
+        <Access>Public</Access>
+        <Location left="505" top="61" />
+        <Size width="201" height="502" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public Actividad ActividadInstancia</Member>
+        <Member type="Field">public string ActividadTitulo</Member>
+        <Member type="Field">public char EstadoDeLaActividad</Member>
+        <Member type="Field">public char EstadoDeLaFirma</Member>
+        <Member type="Field">public DateTime FechaDeOficio</Member>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public string Jefe</Member>
+        <Member type="Field">public int JefeID</Member>
+        <Member type="Field">public int Periodo</Member>
+        <Member type="Field">public int Peso</Member>
+        <Member type="Field">public int Pregunta1</Member>
+        <Member type="Field">public int Pregunta2</Member>
+        <Member type="Field">public int Pregunta3</Member>
+        <Member type="Field">public int Pregunta4</Member>
+        <Member type="Field">public int Pregunta5</Member>
+        <Member type="Field">public int Pregunta6</Member>
+        <Member type="Field">public int Pregunta7</Member>
+        <Member type="Field">public double Promedio</Member>
+        <Member type="Field">public string Responsable</Member>
+        <Member type="Field">public int ResponsableID</Member>
+        <Member type="Field">public string Seccion</Member>
+        <Member type="Destructor">~Credito()</Member>
+        <Member type="Constructor">public Credito(int _peso, int _creditoID, string _nombreActividad, int _actividadID, int _jefeID, string _jefe, int _responsableID, string _responsable, char _estado, DateTime _fechaDeOficio, int _periodo, int _pregunta1, int _pregunta2, int _pregunta3, int _pregunta4, int _pregunta5, int _pregunta6, int _pregunta7, double _promedio, char _charEstadoDeLaFirma, string _seccion)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Seccion</Name>
+        <Access>Public</Access>
+        <Location left="804" top="312" />
+        <Size width="343" height="145" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public int Peso</Member>
+        <Member type="Constructor">public Seccion(string _nombre, int _id, int _Peso)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Registro</Name>
+        <Access>Public</Access>
+        <Location left="839" top="911" />
+        <Size width="282" height="162" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public string Fecha</Member>
+        <Member type="Field">public string Contenido</Member>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public int UserID</Member>
+        <Member type="Constructor">public Registro(int _id, int _userID, string _contenido, string _fecha)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Departamento</Name>
+        <Access>Public</Access>
+        <Location left="1236" top="656" />
+        <Size width="347" height="157" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public int ID</Member>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Constructor">public Departamento(string _nombre, int _id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Personal</Name>
+        <Access>Public</Access>
+        <Location left="533" top="683" />
+        <Size width="162" height="161" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public string Nombre</Member>
+        <Member type="Field">public int Clave</Member>
+        <Member type="Field">public string Apellidos</Member>
+        <Member type="Constructor">public Personal(string _nombre, string _apellidos, int _clave)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Association" first="4" second="5">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>447</X>
+          <Y>141</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Aggregation</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>5</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="5" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>731</X>
+          <Y>142</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="1" second="6">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>976</X>
+          <Y>273</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="9">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="7">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>980</X>
+          <Y>905</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Aggregation</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>0..*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="5" second="9">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="3" second="8">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="2" second="4">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>246</X>
+          <Y>357</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Aggregation</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\obj\Debug\Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\obj\Debug\Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\bin\Debug\Nucleo.dll
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\bin\Debug\Nucleo.pdb
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\obj\Debug\Nucleo.dll
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\Nucleo\obj\Debug\Nucleo.pdb

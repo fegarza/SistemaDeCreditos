@@ -1,0 +1,5 @@
+localhost
+ESCOLARES
+pipe
+7271
+C:\Users\Felipe\Desktop\Sistema de creditos\DataBase\db\

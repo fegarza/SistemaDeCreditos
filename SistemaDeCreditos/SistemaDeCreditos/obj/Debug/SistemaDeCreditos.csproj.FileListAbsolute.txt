@@ -1,0 +1,109 @@
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe.config
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Menu.resources
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Properties.Resources.resources
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.GenerateResource.Cache
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CoreCompileInputs.cache
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csprojResolveAssemblyReference.cache
+C:\Users\fegar\Documents\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Form1.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe.config
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csprojResolveAssemblyReference.cache
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Form1.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Menu.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Properties.Resources.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.GenerateResource.Cache
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CoreCompileInputs.cache
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Calificar.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.BuscarEstudiante.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Inicio.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevaActividad.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Login.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Ajustes.resources
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.dll
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.xml
+C:\Users\fegar\Documents\TEC\Sistema De Creditos\ActividadesComplementarias\Grarza\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Configuracion.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe.config
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.dll
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.xml
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csprojAssemblyReference.cache
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Form1.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Ajustes.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.BuscarEstudiante.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Calificar.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Configuracion.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Inicio.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Login.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Menu.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevaActividad.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Properties.Resources.resources
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.GenerateResource.cache
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CoreCompileInputs.cache
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CopyComplete
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\Proyectos\C#\Tecnologico\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csprojAssemblyReference.cache
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Form1.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Ajustes.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Calificar.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Configuracion.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Inicio.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Login.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Menu.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevaActividad.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Properties.Resources.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.GenerateResource.cache
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CoreCompileInputs.cache
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe.config
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.pdb
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.dll
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.xml
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CopyComplete
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.SeleccionDeDepartamento.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Reportes.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Grupos.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevoGrupo.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Asignar_grupo.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Logs.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.AgregarAlumnos.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.CalificarGrupo.resources
+C:\Users\fegar\Documents\Proyectos\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Estudiantes.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe.config
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.exe
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\SistemaDeCreditos.pdb
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.dll
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\bin\Debug\itextsharp.xml
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Form1.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.AgregarAlumnos.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Ajustes.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Asignar_grupo.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Estudiantes.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Calificar.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.CalificarGrupo.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Configuracion.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Grupos.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Inicio.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Login.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Logs.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Menu.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevaActividad.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.NuevoGrupo.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.Reportes.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Forms.SeleccionDeDepartamento.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.csproj.CopyComplete
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.exe
+C:\Users\Felipe\Desktop\Sistema de creditos\SistemaDeCreditos\SistemaDeCreditos\obj\Debug\SistemaDeCreditos.pdb
